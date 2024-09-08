@@ -1,2 +1,3 @@
 # bhole-demo
-This is my my first Repository
+This is my first Git Repository.
+Author-- Chandrabhole Singh
